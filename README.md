@@ -10,7 +10,7 @@
 - 📫 How to reach me **mohamedfathidev161@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[mohamedfathidev161@gmail.com]
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-fathi-a49021284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-fathi-a49021284/" height="30" width="40" /></a>
 </p>
