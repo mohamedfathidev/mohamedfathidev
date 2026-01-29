@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fathi Mohamed</h1>
 <h3 align="center">A Software Engineer & Tech Enthusiast</h3>
-  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/168054375?v=4&size=64" alt="Mohamed Fathi" width="200" style="border-radius:50%;">
-  </p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfathidev&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfathidev" /> </p>
 
 - 🌱 I’m currently focusing on **JavaScript, jQuery, Angular, ASP.NET C#, AI Tools, Database & SQL Server, and Software Architecture**  
